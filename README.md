@@ -1,12 +1,14 @@
 ### Hi there 👋 I'm Tosin 
 
-# I am a Software Engineer with a background in Computer Science. 
+# A Software Engineer with a background in Computer Science. 
 I love solving complex data and algorithmic problems and have extensive experience at high-growth startups
 
 
 # Skills and Expertise
 
 Programming Languages: Python (Numpy, Tensorflow, Keras, Scikit-Learn), C/C++, SQL, Ruby on Rails, JavaScript, HTML, CSS
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atere21&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **atere21/atere21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
