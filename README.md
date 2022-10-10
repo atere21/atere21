@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Tosin 
+### Hi there 👋 I'm Tosin 👩‍💻
+
 
 # A Software Engineer with a background in Computer Science. 
 I love solving complex data and algorithmic problems and have extensive experience at high-growth startups
